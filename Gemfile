@@ -9,6 +9,8 @@ gem 'rspec-rails'
 
 gem 'capybara', '2.1.0'
 
+gem 'rails_admin'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
 
